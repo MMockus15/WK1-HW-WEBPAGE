@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -156,3 +157,9 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# Discription: 
+Week 1 challenge I did a code refactor for Horeseon. In this challenge I removed the divs and added in sections to make the html code more user friendly. In css sytle sheet, I combined like codes and changed the main classes to reflect the same code in each section. I simplified the css style sheet to be condensed into a more concise sheet. To finish the project I took a png screen shot using GoFullPage and attached it to the README file.
+
+![Horeseon-refactor-screenshot](./assets/images/horeseon-refactor-screenshot.png)
+>>>>>>> fbbcd9791e95deba147c2ef2cba0b50b253e144d
